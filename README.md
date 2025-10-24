@@ -1,6 +1,6 @@
-# 🌤️ Light Sensor Monitor using ESP32 & Teleplot
+#  Light Sensor Monitor using ESP32 & Teleplot
 
-## 📘 Giới thiệu
+##  Giới thiệu
 
 Dự án này sử dụng **ESP32** để đọc giá trị ánh sáng từ cảm biến quang (Light Sensor) và gửi dữ liệu qua **Serial** cho **Teleplot** – một công cụ mạnh mẽ giúp hiển thị dữ liệu cảm biến theo thời gian thực dưới dạng đồ thị.
 
@@ -11,7 +11,7 @@ Mục tiêu:
 
 ---
 
-## ⚙️ Phần cứng & Phần mềm
+## Phần cứng & Phần mềm
 
 **Phần cứng:**
 - ESP32 hoặc ESP32-S3
@@ -27,6 +27,6 @@ Mục tiêu:
 
 ---
 
-## 💡 Cách hoạt động
+##  Cách hoạt động
 
 ESP32 đọc giá trị ADC tại chân cảm biến, sau đó gửi dữ liệu sang máy tính qua Serial với định dạng:
